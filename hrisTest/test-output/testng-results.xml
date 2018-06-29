@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="11883" started-at="2018-06-29T08:35:55Z" finished-at="2018-06-29T08:36:06Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="11883" started-at="2018-06-29T08:35:55Z" finished-at="2018-06-29T08:36:06Z">
+      <class name="hristest.hrisTest.AppTest">
+        <test-method status="PASS" signature="Testopenhris()[pri:1, instance:hristest.hrisTest.AppTest@5745ca0e]" name="Testopenhris" duration-ms="1790" started-at="2018-06-29T08:35:55Z" finished-at="2018-06-29T08:35:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testopenhris -->
+        <test-method status="PASS" signature="Testthecorrectlogin()[pri:2, instance:hristest.hrisTest.AppTest@5745ca0e]" name="Testthecorrectlogin" duration-ms="7679" started-at="2018-06-29T08:35:56Z" finished-at="2018-06-29T08:36:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testthecorrectlogin -->
+        <test-method status="PASS" signature="Testthecorrectusernameandpassword()[pri:3, instance:hristest.hrisTest.AppTest@5745ca0e]" name="Testthecorrectusernameandpassword" duration-ms="630" started-at="2018-06-29T08:36:04Z" finished-at="2018-06-29T08:36:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testthecorrectusernameandpassword -->
+        <test-method status="PASS" signature="Testblankusernameandpassword()[pri:4, instance:hristest.hrisTest.AppTest@5745ca0e]" name="Testblankusernameandpassword" duration-ms="244" started-at="2018-06-29T08:36:05Z" finished-at="2018-06-29T08:36:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testblankusernameandpassword -->
+        <test-method status="PASS" signature="Testblankusername_correctpassword()[pri:5, instance:hristest.hrisTest.AppTest@5745ca0e]" name="Testblankusername_correctpassword" duration-ms="215" started-at="2018-06-29T08:36:05Z" finished-at="2018-06-29T08:36:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testblankusername_correctpassword -->
+        <test-method status="PASS" signature="Testblankpassword_correctusername()[pri:6, instance:hristest.hrisTest.AppTest@5745ca0e]" name="Testblankpassword_correctusername" duration-ms="637" started-at="2018-06-29T08:36:05Z" finished-at="2018-06-29T08:36:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testblankpassword_correctusername -->
+        <test-method status="PASS" signature="browserQuit()[pri:0, instance:hristest.hrisTest.AppTest@5745ca0e]" name="browserQuit" is-config="true" duration-ms="659" started-at="2018-06-29T08:36:06Z" finished-at="2018-06-29T08:36:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserQuit -->
+      </class> <!-- hristest.hrisTest.AppTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
